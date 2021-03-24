@@ -1,4 +1,4 @@
-//Exercise 3 - If Else
+//Exercise 4 - If Else
 //a
 var randomNumber = Math.random();
 if(randomNumber >= 0.5){
